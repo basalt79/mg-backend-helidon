@@ -1,7 +1,6 @@
+![](https://github.com/basalt79/mg-backend-helidon/workflows/MG%20Build%20Workflow/badge.svg)
+
 # Helidon Quickstart SE Example
-
-
-
 
 This project implements a simple Hello World REST service using Helidon SE.
 
